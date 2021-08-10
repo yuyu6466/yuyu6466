@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yuyu6466
 - 👀 I’m interested in python, data analyst, automation
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python, Java, 
+- 💞️ I’m looking to role in: Junior Data Analyst, QA Automation Engineer, Software Engineer
 - 📫 How to reach me , by LinkedIn Profile -->>https://www.linkedin.com/in/ooi-hweekit-31465b190?fbclid=IwAR1x-50ifF00ZlqYRIB_Dx5rDMFWPAY_qTaHEHxbupLXkHnTvv5_lZwKxGA
 
 <!---
